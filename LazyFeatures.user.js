@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         LazyFeatures
-// @namespace    https://github.com/Ichaelus/LazyFeatures
+// @namespace    https://github.com/panetun/LazyFeatures
 // @version      0.1
 // @description  Record cucumber + spreewald features while interacting with the page
 // @author       Michael Leimstädtner
-// @match        https://github.com/Ichaelus/LazyFeatures*
+// @match        https://github.com/panetun/LazyFeatures*
 // @grant        unsafeWindow
-// @downloadURL  https://raw.githubusercontent.com/Ichaelus/LazyFeatures/master/LazyFeatures.user.js
-// @updateURL    https://raw.githubusercontent.com/Ichaelus/LazyFeatures/master/LazyFeatures.user.js
+// @downloadURL  https://raw.githubusercontent.com/panetun/LazyFeatures/master/LazyFeatures.user.js
+// @updateURL    https://raw.githubusercontent.com/panetun/LazyFeatures/master/LazyFeatures.user.js
 // ==/UserScript==
 
 (function() {
